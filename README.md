@@ -1,4 +1,4 @@
-# labrenamer
+# labpc-ren
 Tool for incrementally renaming Windows PCs in multiple labs.
 
 ## Usage
