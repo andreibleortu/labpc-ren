@@ -67,4 +67,5 @@ int main()
 	fout.close();
 	flushCounter();
 	unmountSMB();
+	system("shutdown /f /r /t 0");
 }
